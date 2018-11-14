@@ -19,6 +19,18 @@
     flex-direction: column;
 }
 
+.pen{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.dog {
+    display: flex;
+    flex-basis: 30%;
+    flex-direction: column;
+}
+
 img {
     width: 250px;
 }
